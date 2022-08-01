@@ -1,0 +1,8 @@
+This is the introduction to my notes for the fulltime web development course through Fullstack Academy.
+
+Cohort Number: 2208-FSA/GHP-ET-WEB-FT
+Course Dates: 01 August 2022 - 28 October 2022
+Lead Instructor: Luke Jones
+Cohort Staff Email: 2208-fsa-rm-web-ft-af@fullstackacademy.com
+Github Repo: https://github.com/orgs/FullstackAcademy/teams/2208-fsa-rm-web-ft
+
