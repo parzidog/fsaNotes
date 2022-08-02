@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+}
+
+body{
+    background-color: #202020;
+    color: #fafafa;
+}
+
+.splash {
+    height: 40px;
+    background-color: blueviolet;
+    color: #ffffff;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    margin: 15px;
+    padding: 15px;
+    border: 2px solid white;
+}
