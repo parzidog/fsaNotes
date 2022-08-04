@@ -1,0 +1,3 @@
+"module.export('')" will export a function.
+
+"let variable = require('./filePath')" will import a file 
