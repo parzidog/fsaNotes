@@ -1,0 +1,27 @@
+Rotate images after turning them into an array:
+
+arrImg.forEach(pic => {
+    let degree = 0
+
+    setInterval(()=>{
+        degree++
+        if(degree ===360) degree = 0
+        pic.style.transform = `rotateY(${degree}deg)`
+
+    },20)
+
+}) 
+
+
+Change gameboard color and innerHTML:
+
+gameboard.addEventListener("click", (event) => {
+    if (event.target.innerHTML === "") {
+        event.target.innerHTML = count % 2 === 0 ? "X" : "O";
+        event.target.style.background = count % 2 === 0 ? "red" : "blue";
+        count++;
+    }
+}); 
+
+
+event.stopPropogation stops the event from bubbling over
