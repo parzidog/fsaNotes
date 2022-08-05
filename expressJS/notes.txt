@@ -1,0 +1,5 @@
+ExpressJS is a hosting API server.
+
+an API is an aplication programming interface. It exposes one application to another.
+
+SEE GITHUB FOR DEMO CODE!!!
