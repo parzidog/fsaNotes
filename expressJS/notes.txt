@@ -3,3 +3,29 @@ ExpressJS is a hosting API server.
 an API is an aplication programming interface. It exposes one application to another.
 
 SEE GITHUB FOR DEMO CODE!!!
+
+We've seen some more robust use of server-side page generation in this workshop using Express (running on Node.js). Concepts and techs covered include:
+
+    npm init to generate a package.json for a new Node project
+
+    installing Express and Morgan with npm install
+
+    using require to import modules
+    
+    instantiating a new Express app with express()
+    
+    Express middleware like Morgan intercepts all requests
+    
+    registering middleware using app.use
+    
+    passing control to following middleware using next
+    
+    starting a server with app.listen
+    
+    using nodemon and a start script to standardize & streamline dev work
+    
+    Express routing definitions like app.get and app.post
+    
+    static routing from a file folder using express.static
+    
+    dynamic routing using route parameters (req.params)
